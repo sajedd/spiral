@@ -1,0 +1,1 @@
+this project is base game by javascript and jquery for fun 
